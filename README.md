@@ -1,2 +1,4 @@
 # kriptografi
-Kriptografi Sedderhana by Adityasmukti
+Kriptografi Sederhana by Adityasmukti
+
+
